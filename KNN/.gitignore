@@ -1,0 +1,5 @@
+content/
+__pycache__/
+run.py
+tests/
+mytest.py
